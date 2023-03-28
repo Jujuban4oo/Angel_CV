@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title> Angel's Website </title>
+</head>
+
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="angel-modified.png" alt="Angel Stiliyanov profil picture" sizes="max-width: 300px"></td>
+            <td>
+                <h1> Angel Stiliyanov</h1>
+                <hr size="1" noshade="0">
+                <p><em>Junior <strong> Front End Developer</strong></em></p>
+                <p>Hello, i'm Angel Stiliyanov-Property and Facility Manager,
+                    but the last 6 years, i'm a Chef. </p>
+                More Information for me and my Hobbies <a
+                    href="https://www.facebook.com/profile.php?id=1458715239">Facebook
+                    Profile</a>
+
+            </td>
+        </tr>
+    </table>
+
+    <hr size="1" noshade="0">
+    <h3>Books and Teaching</h3>
+    <ul>
+        <li> <a href="https://pgea.bg/">High School of Electrical Engineering and Automation</a> </li>
+        <li> <a href="https://uacg.bg/">The Complete University of Architecture, Civil Engineering and Geodesy</a> </li>
+        <li> <a
+                href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12398844#content">The
+                Complete IOS App Develepment BootCamp</a> </li>
+        <li> <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Complete Web Develepment
+                BootCamp</a>
+            <hr>
+            <h3>Work Experience</h3>
+
+            <table cellspacing="10">
+                <thead>
+                    <tr>
+                        <th>Dates</th>
+                        <th>Works</th>
+                    </tr>
+                <tbody>
+                    <td>
+                        2013-2014
+                    </td>
+                    <td>
+                        Facade Engineer
+                    </td>
+
+
+                    <tr>
+                        <td>2015-2016</td>
+                        <td> Facility Manager</td>
+                    <tr>
+                        <td>2016-2017</td>
+                        <td>Ministry of Enviroment and Water</td>
+                    </tr>
+                    <tr>
+                        <td>2017-2021</td>
+                        <td>Chef - Mangia Van</td>
+                    </tr>
+                    <tr>
+                        <td>2021-2023</td>
+                        <td>Chef, Photographer and Co Founder of StandArt Restaurant</td>
+                    </tr>
+
+
+
+                </tbody>
+
+                </tr>
+            </table>
+            <p></p>
+            <hr>
+            <h3> Skills</h3>
+
+            <table cellspacing="10">
+                <thead>
+                    <tr>
+                        <th>Professional</th>
+                        <th>Personal</th>
+                    </tr>
+                <tbody>
+                    <tr>
+                        <td> HTML 5 ●●○○○</td>
+                        <td>Communication ●●●●●</td>
+                    <tr>
+                        <td> Word Press ●●○○○</td>
+                        <td>Team Player ●●●●●</td>
+                    </tr>
+
+                    </tr>
+                    <tr>
+                        <td>Java Scr. ○○○○○</td>
+                        <td> Self Organized ●●●●○</td>
+                    </tr>
+                    <tr>
+                        <td> CSS ○○○○○○</td>
+                        <td>Multitasking ●●●○○</td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+            </tab>
+            <hr>
+            <h3>Hobbies</h3>
+            <ol>
+                <li> <a href="https://www.facebook.com/1458715239/videos/3328104474126798">Mountain Biking</a> </li>
+                <li> <a href="https://www.facebook.com/1458715239/videos/10220521958426484">Trekking and Hiking</a>
+                </li>
+                <li> <a href="https://www.instagram.com/angel_stiliyanov/?hl=bg">Photography</a></li>
+                <li> <a
+                        href="https://www.youtube.com/watch?v=yaoEk1beUy4&list=PLx69jcK44kpSHzjNYsUVqQnzjLgE3rn7r&index=131&ab_channel=%D0%A1%D0%B5%D0%B4%D0%B5%D0%BC-%D0%9E%D1%81%D0%BC%D0%B8%D0%A2%D0%92%2FSevenEightTV">Cooking</a>
+                </li>
+                </Sol>
+                <H3> <a href="Contact me.html">Contact me</a></H3>
+
+
+
+</body>
+
+</html>
