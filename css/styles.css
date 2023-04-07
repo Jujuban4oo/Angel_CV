@@ -1,15 +1,37 @@
-
-
-<style>
 body {
-    background-color: #FAEDCD;
+    background-color: #EEEEEE;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #00ADB5;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: #66bfbf;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: #66bfbf;
+}
+
+p {
+    font-family: sans-serif;
+    color: #1b52aa;
+}
+
+table {
+    color: #194791;
 }
 
 hr {
-    background-color: #FAEDCD;
+    background-color: #EEEEEE;
     border-style: none;
     border-top-style: dotted;
-    border-color: grey;
+    border-color: #A8D8EA;
     border-width: 8px;
     width: 5%;
 
@@ -19,4 +41,3 @@ hr {
 img {
     height: 15%;
 }
-</style>
