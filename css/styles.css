@@ -1,0 +1,22 @@
+
+
+<style>
+body {
+    background-color: #FAEDCD;
+}
+
+hr {
+    background-color: #FAEDCD;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 5%;
+
+}
+
+
+img {
+    height: 15%;
+}
+</style>
